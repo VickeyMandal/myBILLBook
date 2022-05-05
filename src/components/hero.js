@@ -71,13 +71,13 @@ const Hero = () => {
       <div className="h-[38.89rem] w-full bg-cream flex flex-row">
         <div className="w-[46rem] h-max pr-12 ">
           <div className="w-max inset-x-1 mx-[4.5rem] pt-36 text-slate-900">
-            <div className="text-xl md2:text-4xl font-bold flex flex-nowrap ">
+            <div className="text-xl md2:text-3xl font-bold flex flex-nowrap ">
               <p>Simple GST Billing</p>
               <p className="font-thin ml-1 mr-1"> &</p>
               <p>Stock Management</p>
             </div>
             <div>
-              <p className="text-3xl md2:text-4xl font-medium">
+              <p className="text-3xl md2:text-3xl font-medium">
                 software for your business
               </p>
             </div>
