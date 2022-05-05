@@ -1,3 +1,9 @@
+
+# Preview
+https://my-billbook.vercel.app/
+(Api was not sending any otp so i redirected when response was ok)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
