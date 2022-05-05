@@ -78,7 +78,7 @@ const Plans = () => {
           <div className="border-2 border-gold bg-fadegold2 h-[24rem] rounded-md ">
 
           <div className="grid place-content-center ">
-            <div className="bg-mostpopular ml-64 -mt-3 absolute text-white font-bold drop-shadow-md text-xs py-1 w-28 text-center rounded-2xl font-sanspro justify-center items-center">
+            <div className="bg-mostpopular ml-52 -mt-3 absolute text-white font-bold drop-shadow-md text-xs py-1 w-28 text-center rounded-2xl font-sanspro justify-center items-center">
               Most Popular
             </div>
           </div>
